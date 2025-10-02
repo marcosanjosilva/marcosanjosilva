@@ -77,17 +77,18 @@ Amante da tecnologia, hoje ajudo pessoas e empresas a entregar valor através de
 
 # ⚡ Estáticas
 
-<p align="center">
-  <img
+<img
+    align="left"
     alt="GitHub Stats"
     height="200"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=marcosanjosilva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
+/>
 
-  <img
-    alt="Top Langs"
+<img
+    align="left"
+    alt="GitHub Stats"
     height="200"
+    style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosanjosilva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
-</p>
+/>
