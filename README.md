@@ -75,7 +75,7 @@ Amante da tecnologia, hoje ajudo pessoas e empresas a entregar valor através de
 <br/>
 <br/>
 
-# ⚡ Estáticas
+# ⚡ Estatísticas
 
 <img
     align="left"
