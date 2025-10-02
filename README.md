@@ -90,5 +90,5 @@ Amante da tecnologia, hoje ajudo pessoas e empresas a entregar valor através de
     alt="GitHub Stats"
     height="200"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosanjosilva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosanjosilva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&locale=pt-br"
 />
